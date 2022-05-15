@@ -1,6 +1,10 @@
+### EX NO: 03
+
+### DATE: 
 
 
-# Add contact using Android Intent
+# <p align = "center"> Add contact using Android Intent </p>
+
 ## AIM:
 To Add the contact list using Intent Android Studio.
 
@@ -217,7 +221,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-## OUTPUT
+## <br/><br/><br/><br/><br/><br/><br/><br/><br/> OUTPUT
 ![WhatsApp Image 2022-05-02 at 8 10 24 AM](https://user-images.githubusercontent.com/78194419/166188142-9bac5bbc-4d45-4317-853a-2e0303b2cf51.jpeg)
 ![WhatsApp Image 2022-05-02 at 8 10 24 AM (1)](https://user-images.githubusercontent.com/78194419/166188151-ae6c50c7-8d2d-4657-8c2c-dbff20e0ad87.jpeg)
 ![WhatsApp Image 2022-05-02 at 8 10 24 AM (2)](https://user-images.githubusercontent.com/78194419/166188160-b948ca76-becb-44c3-a37e-70947718ad08.jpeg)
